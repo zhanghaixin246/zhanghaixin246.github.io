@@ -527,7 +527,7 @@ body {
   margin-left: 8px;
 }
 .article-category:before {
-  content: "\2022";
+  content: "\2020";
 }
 .article-category-link {
   margin: 0 12px 1em;
